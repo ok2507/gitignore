@@ -3,3 +3,6 @@ new-file.txt
 
 #folder to ignore
 bin/
+
+#ignore files with particular extension
+*.tmp
